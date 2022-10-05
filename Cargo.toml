@@ -1,0 +1,9 @@
+[package]
+name = "riprename"
+version = "0.1.0"
+authors = ["Dmytro Onypko <vaporif@gmail.com>"]
+edition = "2021"
+
+license = "Unlicense OR MIT"
+[dependencies]
+clap = "4.0.9"
